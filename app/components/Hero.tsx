@@ -32,7 +32,8 @@ const Hero = () => {
               words="Transforming concepts into seamless user experiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-              Hi, I&apos;m Ammad, a next js developer based in Pakistan
+              Hi, I&apos;m Ammad, a Javascript Developer crafting modern web
+              experiences.
             </p>
             <a href="#about">
               <MagicButton

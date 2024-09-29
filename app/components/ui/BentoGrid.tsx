@@ -60,7 +60,7 @@ export const BentoGridItem = ({
   };
 
   const handleCopy = () => {
-    const text = "hsu@jsmastery.pro";
+    const text = "ammadhassan104@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
   };
@@ -138,7 +138,7 @@ export const BentoGridItem = ({
               <div className="flex flex-col gap-3 lg:gap-4">
                 <span className="py-4 px-3 rounded-lg text-center bg-[#10132E]"></span>
 
-                {["VueJS", "Angular", "AWS"].map((item) => {
+                {["JavaScript", "Angular", "Node js"].map((item) => {
                   return (
                     <span
                       key={item}
